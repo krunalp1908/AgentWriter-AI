@@ -31,7 +31,7 @@ This repository contains two core parts:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/entbappy/AgentWriter-AI.git
+git clone https://github.com/krunalp1908/AgentWriter-AI.git
 cd AgentWriter-AI
 ```
 
